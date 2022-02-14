@@ -5,4 +5,4 @@ subtitle: Pencils | Colours | Tea | Kittens - These are a few of my favourite th
 ---
 
 
-![Shivali](/assets/img/shivali.jpg)
+![Shivali](/assets/img/shivali.jpg){: .mx-auto.d-block :}

@@ -6,6 +6,8 @@ subtitle: Pencils | Colours | Tea | Kittens - These are a few of my favourite th
 
 My name is Shivali Babras. I am married to the best person and his name is Gaurav Ketkar
 
+![Shivali](/assets/img/shivali.jpg)
+
 Professionally, I am an experienced User Interface Designer with a demonstrated history of working in the information technology and services industry. Arts and design professional, skilled in various prototyping and vector graphics editing tools.
 
 I've recently taken up pottery and am pretty good at it!

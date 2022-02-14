@@ -1,6 +1,6 @@
 ---
 layout: home
-title: My website
+title: Little Things by Shivali
 subtitle: Pencils | Colours | Tea | Kittens - These are a few of my favourite things! ✨
 ---
 
